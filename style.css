@@ -1,23 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
 body {
     background-color: #1F1F1F;
 }
 
 .color1{
-    font-family: 'Oswald';
+    font-family: 'Satisfy';
     color: #F85EDC;
     font-size: xx-large;
 }
 
 .color2{
-    font-family: 'Oswald';
+    font-family: 'Satisfy';
     color: #3BDCE3;
     font-size: xx-large;
 }
 
 .color3{
-    font-family: 'Oswald';
+    font-family: 'Satisfy';
     color: #1CE972;
     font-size: xx-large;
 }
