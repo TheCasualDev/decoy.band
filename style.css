@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body {
+    background-color: #1F1F1F;
+}
+
+.color1{
+    font-family: 'Oswald';
+    color: #F85EDC;
+    font-size: xx-large;
+}
+
+.color2{
+    font-family: 'Oswald';
+    color: #3BDCE3;
+    font-size: xx-large;
+}
+
+.color3{
+    font-family: 'Oswald';
+    color: #1CE972;
+    font-size: xx-large;
+}
+
+.button {
+    background-color: #6200d1;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 90px;
+    font-family: 'Roboto Mono';
+}
