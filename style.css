@@ -23,7 +23,7 @@ body {
 }
 
 .button {
-    background-color: #6200d1;
+    background-image: linear-gradient(to bottom right, #F85EDC, #3BDCE3, #1CE972);
     border: none;
     color: white;
     text-align: center;
@@ -31,5 +31,5 @@ body {
     display: inline-block;
     cursor: pointer;
     border-radius: 90px;
-    font-family: 'Roboto Mono';
+    font-family: 'Satisfy';
 }
